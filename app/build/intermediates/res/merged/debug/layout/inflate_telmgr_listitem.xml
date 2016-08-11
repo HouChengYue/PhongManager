@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              >
+    <!--android:background="@drawable/home_entry_item"-->
+    <TextView
+        android:id="@+id/textview"
+        android:drawableRight="@drawable/ic_arrows_right"
+        android:layout_width="fill_parent"
+        android:text="通讯大全"
+        android:gravity="center_vertical"
+        android:padding="16.0dip"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="16.0sp"
+        android:textStyle="bold"/>
+</LinearLayout>

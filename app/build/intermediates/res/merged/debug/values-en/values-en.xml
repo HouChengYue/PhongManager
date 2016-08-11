@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">About</string>
+    <string name="action_settings">setting</string>
+    <string name="allsoft">All software</string>
+    <string name="app_name">Mobile Butler</string>
+    <string name="filemgr">File Management</string>
+    <string name="filetype_all">All</string>
+    <string name="filetype_apk">Package</string>
+    <string name="filetype_audio">Audio</string>
+    <string name="filetype_image">Img</string>
+    <string name="filetype_txt">Docment</string>
+    <string name="filetype_video">Video</string>
+    <string name="filetype_zip">Zip</string>
+    <string name="home_clear">Mobile accelerator</string>
+    <string name="lead_skiptext">Skip</string>
+    <string name="leadimage_description">引导页面图像</string>
+    <string name="leadtext_description1">小图标1</string>
+    <string name="leadtext_description2">小图标2</string>
+    <string name="leadtext_description3">小图标3</string>
+    <string name="logoimage_description">logo图像</string>
+    <string name="phonemgr">Phone De3tel</string>
+    <string name="rocket">Seed Up</string>
+    <string name="sdclean">Garbage Clean</string>
+    <string name="setting">Setting</string>
+    <string name="setting_about">About Us</string>
+    <string name="setting_autostart">Boot</string>
+    <string name="setting_clear">Cleaning buffer</string>
+    <string name="setting_help">Help explain</string>
+    <string name="setting_notifmsg">Notification icon</string>
+    <string name="setting_pushmsg">Message push</string>
+    <string name="setting_share">Friends share</string>
+    <string name="setting_study">Opinion reversed</string>
+    <string name="setting_update">Version update</string>
+    <string name="showapp_delapp">Uninstall the selected software
+</string>
+    <string name="showfile_delfile">Delete the selected file
+</string>
+    <string name="softmgr">Software Manager</string>
+    <string name="space_all">All</string>
+    <string name="space_phone">Inner Speace</string>
+    <string name="space_sdcard">Out Speace</string>
+    <string name="speedup_show_allapp">(user process) shows the full process
+</string>
+    <string name="speedup_show_sysapp">(full course) display system process
+</string>
+    <string name="speedup_show_userapp">(system process) display user process</string>
+    <string name="syssoft">Systems software</string>
+    <string name="tel_title">Telphone Station</string>
+    <string name="telmgr">Yellow Pages</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_clear">ClearActivity</string>
+    <string name="title_activity_filemgr">FilemgrActivity</string>
+    <string name="title_activity_filemgr_show">FilemgrShowActivity</string>
+    <string name="title_activity_kuaidi">KuaidiActivity</string>
+    <string name="title_activity_phonemgr">PhonemgrActivity</string>
+    <string name="title_activity_set">SetActivity</string>
+    <string name="title_activity_showapp">ShowappActivity</string>
+    <string name="title_activity_speedup">SpeedupActivity</string>
+    <string name="title_activity_telmgr">TelmgrActivity</string>
+    <string name="title_activity_telshow">TelshowActivity</string>
+    <string name="usesoft">User software
+</string>
+</resources>

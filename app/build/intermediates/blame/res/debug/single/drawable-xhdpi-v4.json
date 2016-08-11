@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_red.9.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_red.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_score_normal_bg.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\home_score_normal_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_check_progress_bg.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\ic_check_progress_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_rect_correct_default.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\check_rect_correct_default.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_telmgr.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\icon_telmgr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_green.9.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_green.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_sdclean.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\icon_sdclean.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_score_bg.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\home_score_bg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_phonemgr.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\icon_phonemgr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_rocket.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\icon_rocket.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_softmgr.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\icon_softmgr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_version.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_version.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon_filemgr.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\icon_filemgr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_yellow.9.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_yellow.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_switch_on.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\check_switch_on.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\notification_information_progress_bg.9.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\notification_information_progress_bg.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\home_score_pressed_bg.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\home_score_pressed_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_space.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_space.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\icon.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_root.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_root.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_child_configs.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\ic_child_configs.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_camera.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_camera.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_rect_correct_checked.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\check_rect_correct_checked.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\check_switch_off.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\check_switch_off.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\setting_info_icon_cpu.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-xhdpi\\setting_info_icon_cpu.png"
+    }
+]

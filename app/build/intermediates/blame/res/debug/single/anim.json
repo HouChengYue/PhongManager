@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_left.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\in_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\img_scale2.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\img_scale2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\my_scale_action.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\my_scale_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_left.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\out_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_down.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\in_down.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_up.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\out_up.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_in.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\img_scale1.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\img_scale1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_logo.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\anim_logo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\out_right.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\out_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\wave_scale.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\wave_scale.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hyperspace_out.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\hyperspace_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_in.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\push_left_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\in_right.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\in_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_exit.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\zoom_exit.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_up_out.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\push_up_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_translate.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\scale_translate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down_out.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\slide_down_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_enter.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\zoom_enter.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\slide_left.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_left_out.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\push_left_out.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up_in.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\slide_up_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\my_alpha_action.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\my_alpha_action.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_rotate.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\scale_rotate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hyperspace_in.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\hyperspace_in.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\slide_right.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\anim\\scale_translate_rotate.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\anim\\scale_translate_rotate.xml"
+    }
+]

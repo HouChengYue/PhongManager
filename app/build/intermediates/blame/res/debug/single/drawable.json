@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_switch.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\check_switch.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_classlist_bg3.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\selector_classlist_bg3.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_float_normal.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\btn_float_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_folder.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_folder.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeclear_text_normal.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\homeclear_text_normal.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_c_h.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_c_h.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_mp3.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_mp3.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xhtml_xml.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_xhtml_xml.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_html.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_html.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xml.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_xml.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_classlist_bg2.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\selector_classlist_bg2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_css.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_css.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_sdcard_space.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\progressbar_sdcard_space.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tiff.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_tiff.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gzip.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_gzip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_text_richtext.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_text_richtext.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_entry_item.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\home_entry_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_text_plain.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_text_plain.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_doc.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_doc.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_playlist.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_playlist.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_javascript.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_javascript.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeclear_text.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\homeclear_text.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_float.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\btn_float.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_archive.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_archive.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_bmp.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_bmp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\accepts.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\accepts.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_java.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_java.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_classlist_bg1.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\selector_classlist_bg1.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_rect_correct.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\check_rect_correct.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wav.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_wav.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ico.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_ico.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_audio.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_audio.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_battery.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\progressbar_battery.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_png.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_png.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cpp.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_cpp.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_app.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_app.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_file.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_file.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\homeclear_text_pressed.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\homeclear_text_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xcf.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_xcf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_phone_space.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\progressbar_phone_space.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_gif.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_gif.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_cpp_h.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_cpp_h.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_float_pressed.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\btn_float_pressed.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_rotate.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\progressbar_rotate.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_image.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_image.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_flash.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_flash.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ppt.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_ppt.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_c.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_c.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_zip.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_zip.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_xls.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_xls.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_jpeg.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_jpeg.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_video.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_video.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_tar.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_tar.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_pdf.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_pdf.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_men.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\progressbar_men.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_wma.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_wma.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_rar.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\icon_rar.png"
+    }
+]

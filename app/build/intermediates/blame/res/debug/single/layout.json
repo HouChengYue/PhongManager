@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_softmgr_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_softmgr_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_speedup.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_speedup.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_speedup_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_speedup_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_listview.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_listview.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_telmgr_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\inflate_telmgr_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lead.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_lead.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_notification_appincon.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_notification_appincon.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_telclasslist_griditem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_telclasslist_griditem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_softmgr.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_softmgr.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_telmsg.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_telmsg.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_setting_list.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_setting_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_homeitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_homeitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_showapp_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_showapp_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_softmgr_spacemem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_softmgr_spacemem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_actionbar.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_actionbar.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_homescore.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_homescore.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_lead_item.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_lead_item.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_phonemgr_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_phonemgr_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tellist.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_tellist.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonemgrshowapp.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_phonemgrshowapp.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_phonemgr.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_phonemgr.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_clear.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_clear.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_tellist_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_tellist_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_filemgr_list.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_filemgr_list.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_rubbishfile_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_rubbishfile_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_filemgl_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_filemgl_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_logo.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_logo.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_upimgdowntext.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_upimgdowntext.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_speedup_show.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_speedup_show.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filemgr.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_filemgr.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inflate_tellist_listitem.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\inflate_tellist_listitem.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filemgrshow.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_filemgrshow.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_about.xml"
+    }
+]
