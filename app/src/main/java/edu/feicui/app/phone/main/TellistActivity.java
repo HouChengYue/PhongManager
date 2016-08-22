@@ -53,6 +53,7 @@ public class TellistActivity
         this.listView = ((ListView)findViewById(R.id.listview));
         this.adapter = new TellistAdapter(this);
         this.listView.setAdapter(this.adapter);
+        this.listView.setOnItemClickListener(this);
 
     }
 
