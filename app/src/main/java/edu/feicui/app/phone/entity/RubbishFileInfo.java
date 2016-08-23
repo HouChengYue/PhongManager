@@ -4,83 +4,93 @@ import android.graphics.drawable.Drawable;
 
 public class RubbishFileInfo {
 
-	private int _id;
-	private String softChinesename;
-	private String softEnglishname;
-	private String apkname;
-	private String filepath;
-	private Drawable icon;
+    private int _id;
+    private String softChinesename;
+    private String softEnglishname;
+    private String apkname;
+    private String filepath;
+    private Drawable icon;
+    private boolean IsClear;
 
-	private long size;
 
-	public RubbishFileInfo(int _id, String softChinesename, String softEnglishname, String apkname, String filepath) {
-		super();
-		this._id = _id;
-		this.softChinesename = softChinesename;
-		this.softEnglishname = softEnglishname;
-		this.apkname = apkname;
-		this.filepath = filepath;
-	}
+    private long size;
 
-	public long getSize() {
-		return size;
-	}
+    public RubbishFileInfo(int _id, String softChinesename, String softEnglishname, String apkname, String filepath) {
+        super();
+        this._id = _id;
+        this.softChinesename = softChinesename;
+        this.softEnglishname = softEnglishname;
+        this.apkname = apkname;
+        this.filepath = filepath;
+    }
 
-	public void setSize(long size) {
-		this.size = size;
-	}
+    public long getSize() {
+        return size;
+    }
 
-	public int get_id() {
-		return _id;
-	}
+    public void setSize(long size) {
+        this.size = size;
+    }
 
-	public void set_id(int _id) {
-		this._id = _id;
-	}
+    public int get_id() {
+        return _id;
+    }
 
-	public String getSoftChinesename() {
-		return softChinesename;
-	}
+    public void set_id(int _id) {
+        this._id = _id;
+    }
 
-	public void setSoftChinesename(String softChinesename) {
-		this.softChinesename = softChinesename;
-	}
+    public String getSoftChinesename() {
+        return softChinesename;
+    }
 
-	public String getSoftEnglishname() {
-		return softEnglishname;
-	}
+    public void setSoftChinesename(String softChinesename) {
+        this.softChinesename = softChinesename;
+    }
 
-	public void setSoftEnglishname(String softEnglishname) {
-		this.softEnglishname = softEnglishname;
-	}
+    public boolean isClear() {
+        return IsClear;
+    }
 
-	public String getApkname() {
-		return apkname;
-	}
+    public void setClear(boolean clear) {
+        IsClear = clear;
+    }
 
-	public void setApkname(String apkname) {
-		this.apkname = apkname;
-	}
+    public String getSoftEnglishname() {
+        return softEnglishname;
+    }
 
-	public String getFilepath() {
-		return filepath;
-	}
+    public void setSoftEnglishname(String softEnglishname) {
+        this.softEnglishname = softEnglishname;
+    }
 
-	public void setFilepath(String filepath) {
-		this.filepath = filepath;
-	}
+    public String getApkname() {
+        return apkname;
+    }
 
-	public Drawable getIcon() {
-		return icon;
-	}
+    public void setApkname(String apkname) {
+        this.apkname = apkname;
+    }
 
-	public void setIcon(Drawable icon) {
-		this.icon = icon;
-	}
+    public String getFilepath() {
+        return filepath;
+    }
 
-	@Override
-	public String toString() {
-		return "SoftdetailInfo [_id=" + _id + ", softChinesename=" + softChinesename + ", apkname=" + apkname + "]";
-	}
+    public void setFilepath(String filepath) {
+        this.filepath = filepath;
+    }
+
+    public Drawable getIcon() {
+        return icon;
+    }
+
+    public void setIcon(Drawable icon) {
+        this.icon = icon;
+    }
+
+    @Override
+    public String toString() {
+        return "SoftdetailInfo [_id=" + _id + ", softChinesename=" + softChinesename + ", apkname=" + apkname + "]";
+    }
 
 }

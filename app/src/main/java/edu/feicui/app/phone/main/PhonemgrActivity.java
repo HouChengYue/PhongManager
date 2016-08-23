@@ -22,6 +22,7 @@ import edu.feicui.app.phone.entity.PhoneInfo;
 import edu.feicui.app.phone.util.CommonUtil;
 
 /**
+ * @author houchengyue
  * 手机检测界面
  */
 public class PhonemgrActivity extends BaseActivity {
@@ -37,6 +38,22 @@ public class PhonemgrActivity extends BaseActivity {
 	private int temperatureBattery;// 电池温度
 
 	private String betterymessage;//电池的所有消息
+	private View.OnClickListener clickListener = new View.OnClickListener() {
+		@Override
+		public void onClick(View v) {
+			int viewID = v.getId();
+			switch (viewID) {
+				case R.id.iv_left:
+					startActivity(HomeActivity.class);
+					finish();
+					break;
+				case R.id.ll_layout_battery:
+					showBatteryMessage();
+					break;
+			}
+		}
+	};
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -101,7 +118,6 @@ public class PhonemgrActivity extends BaseActivity {
 			text = "相机分辩率:" + manager.getMaxPhotoSize();
 		}catch (Exception e){
 			e.printStackTrace();
-		}finally {
 			text = "相机初始化异常";
 		}
 		title = "手机分辩率:" + manager.getResolution();
@@ -134,22 +150,6 @@ public class PhonemgrActivity extends BaseActivity {
 		super.onDestroy();
 		unregisterReceiver(broadcastReceiver);
 	}
-
-	private View.OnClickListener clickListener = new View.OnClickListener() {
-		@Override
-		public void onClick(View v) {
-			int viewID = v.getId();
-			switch (viewID) {
-			case R.id.iv_left:
-				startActivity(HomeActivity.class);
-				finish();
-				break;
-			case R.id.ll_layout_battery:
-				showBatteryMessage();
-				break;
-			}
-		}
-	};
 
 	private void showBatteryMessage() {
 		AlertDialog.Builder builder = new AlertDialog.Builder(this);

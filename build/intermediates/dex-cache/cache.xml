@@ -1,26 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="D:\Android_Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="D:\AndroidStudio_Product\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_3dfe9681f67bc1d56024a883de9a71b03ba32f2a\classes.dex" />
-    </item>
-    <item
-        jar="D:\AndroidStudio_Product\App\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="bd1d568b7cf96a9d782801751eed421643d33624">
-        <dex dex="D:\AndroidStudio_Product\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_19af885e747f4eb5396377dd4fa82f3011f3d393\classes.dex" />
-    </item>
-    <item
-        jar="D:\AndroidStudio_Product\App\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="23.0.3"
-        sha1="da2998ecd4841262140cd37e15d7ee8560aa9b05">
-        <dex dex="D:\AndroidStudio_Product\App\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6caabd0452a15782af1288e194877ed57d51e596\classes.dex" />
-    </item>
-
-</items>

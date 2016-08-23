@@ -64,12 +64,12 @@
         "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_homescore.xml"
     },
     {
-        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_lead_item.xml",
-        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_lead_item.xml"
-    },
-    {
         "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
         "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_lead_item.xml",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\layout\\layout_lead_item.xml"
     },
     {
         "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
