@@ -1,6 +1,7 @@
 package edu.feicui.app.phone.main;
 
 import android.os.Bundle;
+import android.os.Message;
 import android.view.KeyEvent;
 import android.view.View;
 import android.widget.TextView;
@@ -26,6 +27,30 @@ public class HomeActivity extends BaseActivity {
     private long preTime = 0L;
     private TextView view_homeclear_score;// 一键清理
     private ClearArcView view_homeclear_arc;//圆饼
+    private boolean isRuning = false;//是否正在清理
+    private int state;
+    private View.OnClickListener clickListener = new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            int viewID = v.getId();
+            switch (viewID) {
+                case R.id.iv_homeclear:
+                case R.id.tv_homeclear_text:
+                    // 清理所有正在运行程序
+                    AppInfoManager.getAppInfoManager(HomeActivity.this).killALLProcesses();
+                    // 重新初始控件数据
+                    initHomeClearData();
+                    break;
+                case R.id.iv_left:
+                    startActivity(AboutActivity.class, R.anim.in_left, R.anim.out_right);
+                    break;
+                case R.id.iv_right:
+                    startActivity(SettingActivity.class, R.anim.in_right, R.anim.out_left);
+                    break;
+            }
+        }
+    };
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
@@ -53,6 +78,13 @@ public class HomeActivity extends BaseActivity {
         view_homeclear_text.setOnClickListener(clickListener);
     }
 
+    @Override
+    protected void myHandleMessage(Message msg) {
+        int u = msg.arg1;
+        view_homeclear_score.setText(u + "");
+
+    }
+
     private void initHomeClearData() {
 //         获取到全部运行内存
         float totalRam = MemoryManager.getPhoneTotalRamMemory();
@@ -62,10 +94,11 @@ public class HomeActivity extends BaseActivity {
         float usedRam = totalRam - freeRam;
 //         计算出已使用运行内存比例
         float usedP = usedRam / totalRam;
-		int used100 = (int) (usedP * 100); // 计算出已使用运行内存百分比
+        final int used100 = (int) (usedP * 100); // 计算出已使用运行内存百分比
         int angle = (int) (usedP * 360); // 计算出已使用运行内存角度
-        view_homeclear_score.setText(used100 + "");
-		view_homeclear_arc.setAngleWithAnim(angle);
+//        view_homeclear_score.setText(used100 + "");
+
+        view_homeclear_arc.setAngleWithAnim(angle, view_homeclear_score);
     }
 
     /**
@@ -95,28 +128,6 @@ public class HomeActivity extends BaseActivity {
                 break;
         }
     }
-
-    private View.OnClickListener clickListener = new View.OnClickListener() {
-        @Override
-        public void onClick(View v) {
-            int viewID = v.getId();
-            switch (viewID) {
-                case R.id.iv_homeclear:
-                case R.id.tv_homeclear_text:
-				// 清理所有正在运行程序
-				AppInfoManager.getAppInfoManager(HomeActivity.this).killALLProcesses();
-                    // 重新初始控件数据
-                    initHomeClearData();
-                    break;
-                case R.id.iv_left:
-                    startActivity(AboutActivity.class, R.anim.in_left, R.anim.out_right);
-                    break;
-                case R.id.iv_right:
-                    startActivity(SettingActivity.class, R.anim.in_right, R.anim.out_left);
-                    break;
-            }
-        }
-    };
 
     @Override
     public boolean onKeyDown(int paramInt, KeyEvent paramKeyEvent) {

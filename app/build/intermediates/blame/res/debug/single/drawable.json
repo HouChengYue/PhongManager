@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_5.jpg",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\logo_5.jpg"
+    },
+    {
         "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_switch.xml",
         "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable\\check_switch.xml"
     },

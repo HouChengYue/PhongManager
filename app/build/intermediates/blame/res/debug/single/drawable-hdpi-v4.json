@@ -60,10 +60,6 @@
         "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-hdpi\\btn_homeasup_default.png"
     },
     {
-        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_5.png",
-        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-hdpi\\logo_5.png"
-    },
-    {
         "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_sdclean.png",
         "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-hdpi\\icon_sdclean.png"
     },
@@ -138,5 +134,9 @@
     {
         "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_filemgr.png",
         "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-hdpi\\icon_filemgr.png"
+    },
+    {
+        "merged": "D:\\AndroidStudio_Product\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo5.png",
+        "source": "D:\\AndroidStudio_Product\\App\\app\\src\\main\\res\\drawable-hdpi\\logo5.png"
     }
 ]

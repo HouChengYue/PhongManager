@@ -38,6 +38,9 @@ public class ClearActivity extends BaseActivity {
     private CheckBox checkBox;//复选框
     private ArrayList<RubbishFileInfo> rubbishFileInfos = null;
     private long totalSize = 0; // 用来保存总大小的变量
+    /**
+     *
+     */
     private CompoundButton.OnCheckedChangeListener changeListener = new CompoundButton.OnCheckedChangeListener() {
 
         @Override
@@ -68,7 +71,6 @@ public class ClearActivity extends BaseActivity {
                             String filepath = r.getFilepath();
                             File f = new File(filepath);
                             Delet(f);
-
                         }
                     }
                     //刷新列表
@@ -81,17 +83,6 @@ public class ClearActivity extends BaseActivity {
                     checkBox.setChecked(false);
                     break;
 
-//                    cb_all// 清理选中的进程
-//                    List<RuningAppInfo> appInfos = runingAppAdapter.getDataList();
-//                    for (RuningAppInfo appInfo : appInfos) {
-//                        if (appInfo.isClear()) {
-//                            String packageName = appInfo.getPackageName();
-//                            AppInfoManager.getAppInfoManager(getApplicationContext()).killProcesses(packageName);
-//                        }
-//                    }
-//                    // 重新加载刷新数据
-//                    loadData();
-//                    cb_checkClearAll.setChecked(false);
             }
         }
     };
@@ -150,6 +141,7 @@ public class ClearActivity extends BaseActivity {
             long size = (Long) msg.obj;
             totalSize += size;
             tv_totalsize.setText(CommonUtil.getFileSize(totalSize));
+            pb_loading.setVisibility(View.VISIBLE);
         }
         if (msg.what == 2) {
             @SuppressWarnings("unchecked")
